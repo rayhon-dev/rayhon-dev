@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rayhon-dev/rayhon-dev/main/animation.svg" alt="Rayhon's Animated Banner">
-</p>
-
-
 ## Hi there! 👋 Welcome to my GitHub Profile
 
 I'm **Rayhon**, a passionate and aspiring developer currently studying at **Astrum IT Academy**. I love exploring new technologies and building projects with **Python**. 🚀

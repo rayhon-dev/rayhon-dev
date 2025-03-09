@@ -1,0 +1,30 @@
+<svg width="100%" height="150">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24">
+    👋 Hello, I'm Rayhon!
+  </text>
+  
+  <g>
+    <text x="10%" y="20%" font-size="24">⚡️</text>
+    <animateTransform attributeName="transform" type="translate" from="0 -20" to="0 20" begin="0s" dur="1s" repeatCount="indefinite"/>
+  </g>
+  
+  <g>
+    <text x="90%" y="30%" font-size="24">💸</text>
+    <animateTransform attributeName="transform" type="translate" from="0 -20" to="0 20" begin="0.5s" dur="1s" repeatCount="indefinite"/>
+  </g>
+
+  <g>
+    <text x="30%" y="80%" font-size="24">🪐</text>
+    <animateTransform attributeName="transform" type="translate" from="0 -20" to="0 20" begin="1s" dur="1s" repeatCount="indefinite"/>
+  </g>
+
+  <g>
+    <text x="30%" y="80%" font-size="24">💕</text>
+    <animateTransform attributeName="transform" type="translate" from="0 -20" to="0 20" begin="1s" dur="1s" repeatCount="indefinite"/>
+  </g>
+
+  <g>
+    <text x="30%" y="80%" font-size="24">💻</text>
+    <animateTransform attributeName="transform" type="translate" from="0 -20" to="0 20" begin="1s" dur="1s" repeatCount="indefinite"/>
+  </g>
+</svg>
